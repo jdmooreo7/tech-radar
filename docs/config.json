@@ -2,25 +2,26 @@
   "date": "2025.02",
   "entries": [
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 1,
-      "label": "AWS Athena",
-      "active": true,
+      "label": "Use Case One",
+      "link": "https://highway",
+      "active": False,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 1,
       "ring": 0,
       "label": "AWS EMR",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 2,
       "ring": 2,
-      "label": "AWS Glue",
+      "label": "Use case 2",
       "active": true,
-      "moved": 0
+      "moved": 1
     },
     {
       "quadrant": 3,
